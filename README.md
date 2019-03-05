@@ -6,4 +6,5 @@ Cardiff University's Student Union sabattical officers election featured a reall
 * getJSON('//js.cardiffstudents.com/elections/msl_json.php?v=1&e='+election_id+'&t=membershipstats&g=1,2&sort=Turnout&dir=Descending&callback=?'
 * getJSON('//js.cardiffstudents.com/elections/votes.php?v=2&e=' + election_id + '&callback=?'
 
-Two election_id of "1027" and "1446"were given, with '1446' likely overiding the first. There looks like there might be the option of getting data from previous year's elections too.
+Two election_id of "1027" and "1446"were given, with '1446' likely overiding the first. There looks like there might be the option of getting data from previous year's elections too. 
+The demographics page source code won't be uploaded here in case of copyright issues. All of the data used within the project is available publically through the URLs above. They should be publically available anyway for election transparency.
